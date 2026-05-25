@@ -1,0 +1,11 @@
+{
+  "name": "InterviewAI: Cyber-Prep Hub",
+  "description": "A next-gen career preparation platform featuring AI-simulated interviews, real-time biometric feedback, resume analysis, and an immersive research hub using a Cyber-Tactile intelligence aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
